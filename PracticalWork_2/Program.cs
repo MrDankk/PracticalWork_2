@@ -22,7 +22,7 @@ namespace PracticalWork_2
             string namePattern = $"Имя: {fullName}";
             string agePattern = $"Возраст: {age}";
             string mailPattern = $"Почта: {mail}";
-            string programmingPatern = $"Програмирование: {programmingScore}";
+            string programmingPatern = $"Програмирование : {programmingScore}";
             string mathematicsPattern = $"Математика: {mathematicsScore}";
             string physicsPattern = $"Физика: {physicsScore}";
             string averagePattern = $"Средний балл: {averageScore.ToString("#.##")}";
